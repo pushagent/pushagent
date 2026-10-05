@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://pushagent.net"><img src="https://pushagent.net/wp-content/uploads/cover-1640x624.png" alt="Push Agent" width="600"></a>
+  <a href="https://pushagent.net"><img src="https://pushagent.net/wp-content/uploads/cover-1640x624.png" alt="Push Agent" width="900"></a>
 </p>
 
 <h3 align="center">Web push notifications for any website</h3>
